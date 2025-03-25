@@ -1,4 +1,4 @@
-#  **PDA (Pushdown Automata) for the CFG: S → aSb | ε**
+#  **PDA for the CFG: S → aSb | ε**
 
 ## 👥 **Team Members**
 - **Laura Indabur García**
