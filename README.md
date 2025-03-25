@@ -62,13 +62,13 @@ Navigate to the directory where the code is located:
 ```sh
 cd C:/File/entrega2
 ```
-### 🔹 *2️⃣ Install Dependencies**
+### 🔹 **2️⃣ Install Dependencies**
 Before running the program, install the required library:
 ```sh
 pip install rich
 ```
 
-### 🔹 **    3️⃣ Run the algorithms**
+### 🔹 **3️⃣ Run the algorithms**
 #### ➤ **To run ALGORITHM_1_LFCO_2025_DSA_LIG:**
 ```sh
 python ALGORITHM_1_LFCO_2025_DSA_LIG.py
