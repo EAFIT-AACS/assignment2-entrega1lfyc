@@ -78,13 +78,13 @@ python ALGORITHM_1_LFCO_2025_DSA_LIG.py
 ```sh
 python ALGORITHM_1_LFCO_2025_DSA_LIG.py | python ALGORITHM_2_LFCO_2025_DSA_LIG.py
 ```
-*(Algoritmo2 takes the output from Algoritmo1, so they must be run together in this way.)*
+*(ALGORITHM_2_LFCO_2025_DSA_LIG takes the output from ALGORITHM_1_LFCO_2025_DSA_LIG, so they must be run together in this way.)*
 
 #### ➤ **To run ALGORITHM_3_LFCO_2025_DSA_LIG:**
 ```sh
 python ALGORITHM_1_LFCO_2025_DSA_LIG.py | python ALGORITHM_2_LFCO_2025_DSA_LIG.py | python ALGORITHM_3_LFCO_2025_DSA_LIG.py
 ```
-
+*(ALGORITHM_3_LFCO_2025_DSA_LIG takes the output from ALGORITHM_2_LFCO_2025_DSA_LIG, so they must be run together in this way.)*
 ---
 
 
