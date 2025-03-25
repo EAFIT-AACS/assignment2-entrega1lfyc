@@ -45,14 +45,14 @@ Where:
 ---
 
 ## 🔹 **Implemented Algorithms**
-### 🔹 **Algoritmo1**
+### 🔹 **ALGORITHM_1_LFCO_2025_DSA_LIG**
 Generates **five random strings** accepted by the CFG and **five that are not**. You can modify the number of generated strings in the `main` function of `algoritmo1.py`.
 
-### 🔹 **Algoritmo2**
-Takes the generated strings from **Algoritmo1** and determines **which ones are accepted** by the PDA and which are not.
+### 🔹 **ALGORITHM_2_LFCO_2025_DSA_LIG**
+Takes the generated strings from **ALGORITHM_1_LFCO_2025_DSA_LIG** and determines **which ones are accepted** by the PDA and which are not.
 
-### 🔹 **Algoritmo3**
-*(Description pending)*
+### 🔹 **ALGORITHM_3_LFCO_2025_DSA_LIG**
+The algorithm takes the strings accepted by **ALGORITHM_2_LFCO_2025_DSA_LIG** and generates the left derivation of each string, and also shows all the configurations accepted by the algorithm M.
 
 ---
 
@@ -69,18 +69,18 @@ pip install rich
 ```
 
 ### 🔹 **    3️⃣ Run the algorithms**
-#### ➤ **To run Algoritmo1:**
+#### ➤ **To run ALGORITHM_1_LFCO_2025_DSA_LIG:**
 ```sh
 python ALGORITHM_1_LFCO_2025_DSA_LIG.py
 ```
 
-#### ➤ **To run Algoritmo2:**
+#### ➤ **To run ALGORITHM_2_LFCO_2025_DSA_LIG:**
 ```sh
 python ALGORITHM_1_LFCO_2025_DSA_LIG.py | python ALGORITHM_2_LFCO_2025_DSA_LIG.py
 ```
 *(Algoritmo2 takes the output from Algoritmo1, so they must be run together in this way.)*
 
-#### ➤ **To run Algoritmo3:**
+#### ➤ **To run ALGORITHM_3_LFCO_2025_DSA_LIG:**
 ```sh
 python ALGORITHM_1_LFCO_2025_DSA_LIG.py | python ALGORITHM_2_LFCO_2025_DSA_LIG.py | python ALGORITHM_3_LFCO_2025_DSA_LIG.py
 ```
