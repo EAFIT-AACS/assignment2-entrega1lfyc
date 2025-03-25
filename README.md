@@ -46,7 +46,7 @@ Where:
 
 ## 🔹 **Implemented Algorithms**
 ### 🔹 **ALGORITHM_1_LFCO_2025_DSA_LIG**
-Generates **five random strings** accepted by the CFG and **five that are not**. You can modify the number of generated strings in the `main` function of `algoritmo1.py`.
+Generates **five random strings** accepted by the CFG and **five that are not**. You can modify the number of generated strings in the `main` function of `ALGORITHM_1_LFCO_2025_DSA_LIG.py`.
 
 ### 🔹 **ALGORITHM_2_LFCO_2025_DSA_LIG**
 Takes the generated strings from **ALGORITHM_1_LFCO_2025_DSA_LIG** and determines **which ones are accepted** by the PDA and which are not.
