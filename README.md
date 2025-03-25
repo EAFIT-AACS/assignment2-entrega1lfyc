@@ -62,22 +62,27 @@ Navigate to the directory where the code is located:
 ```sh
 cd C:/File/entrega2
 ```
+### 🔹 *2️⃣ Install Dependencies**
+Before running the program, install the required library:
+```sh
+pip install rich
+```
 
-### 🔹 **2️⃣ Run the algorithms**
+### 🔹 **    3️⃣ Run the algorithms**
 #### ➤ **To run Algoritmo1:**
 ```sh
-python algoritmo1.py
+python ALGORITHM_1_LFCO_2025_DSA_LIG.py
 ```
 
 #### ➤ **To run Algoritmo2:**
 ```sh
-python algoritmo1.py | python algoritmo2.py
+python ALGORITHM_1_LFCO_2025_DSA_LIG.py | python ALGORITHM_2_LFCO_2025_DSA_LIG.py
 ```
 *(Algoritmo2 takes the output from Algoritmo1, so they must be run together in this way.)*
 
 #### ➤ **To run Algoritmo3:**
 ```sh
-python algoritmo1.py | python algoritmo2.py | python algoritmo3.py
+python ALGORITHM_1_LFCO_2025_DSA_LIG.py | python ALGORITHM_2_LFCO_2025_DSA_LIG.py | python ALGORITHM_3_LFCO_2025_DSA_LIG.py
 ```
 
 ---
