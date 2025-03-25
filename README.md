@@ -73,7 +73,7 @@ pip install rich
 ```sh
 python ALGORITHM_1_LFCO_2025_DSA_LIG.py
 ```
-<img src="https://github.com/user-attachments/assets/3ba7bfb9-a20d-4dcd-aa51-e5a5671f5504" width="500" />
+<img src="https://github.com/user-attachments/assets/3ba7bfb9-a20d-4dcd-aa51-e5a5671f5504" width="250" />
 
 
 #### ➤ **To run ALGORITHM_2_LFCO_2025_DSA_LIG:**
@@ -81,7 +81,7 @@ python ALGORITHM_1_LFCO_2025_DSA_LIG.py
 python ALGORITHM_1_LFCO_2025_DSA_LIG.py | python ALGORITHM_2_LFCO_2025_DSA_LIG.py
 ```
 *(ALGORITHM_2_LFCO_2025_DSA_LIG takes the output from ALGORITHM_1_LFCO_2025_DSA_LIG, so they must be run together in this way.)*
-<img src="https://github.com/user-attachments/assets/65de96e5-e33d-4175-8194-30536539d04c" width="200" />
+<img src="https://github.com/user-attachments/assets/65de96e5-e33d-4175-8194-30536539d04c" width="250" />
 
 
 #### ➤ **To run ALGORITHM_3_LFCO_2025_DSA_LIG:**
@@ -91,7 +91,7 @@ python ALGORITHM_1_LFCO_2025_DSA_LIG.py | python ALGORITHM_2_LFCO_2025_DSA_LIG.p
 
 ---
 *(ALGORITHM_3_LFCO_2025_DSA_LIG takes the output from ALGORITHM_2_LFCO_2025_DSA_LIG, so they must be run together in this way.)*
-<img src="https://github.com/user-attachments/assets/7a18641d-98a5-4098-9112-2ac62df9c79d" width="400" height="200" />
+<img src="https://github.com/user-attachments/assets/7a18641d-98a5-4098-9112-2ac62df9c79d" width="250" />
 
 
 
