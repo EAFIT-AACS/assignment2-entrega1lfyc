@@ -74,7 +74,7 @@ pip install rich
 python ALGORITHM_1_LFCO_2025_DSA_LIG.py
 ```
 
-<img src="https://github.com/user-attachments/assets/3ba7bfb9-a20d-4dcd-aa51-e5a5671f5504" width="250" />
+<img src="https://github.com/user-attachments/assets/3ba7bfb9-a20d-4dcd-aa51-e5a5671f5504" width="200" />
 
 
 #### ➤ **To run ALGORITHM_2_LFCO_2025_DSA_LIG:**
