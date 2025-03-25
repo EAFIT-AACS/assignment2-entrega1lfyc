@@ -3,7 +3,8 @@
 ## 👥 **Team Members**
 - **Laura Indabur García**
 - **Daniela Salazar Amaya**
-- Class Number 7308
+
+Class Number 7308
 
 
 ## 💻 **Development Environment**
