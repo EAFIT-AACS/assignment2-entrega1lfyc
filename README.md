@@ -84,8 +84,8 @@ python ALGORITHM_1_LFCO_2025_DSA_LIG.py | python ALGORITHM_2_LFCO_2025_DSA_LIG.p
 ```sh
 python ALGORITHM_1_LFCO_2025_DSA_LIG.py | python ALGORITHM_2_LFCO_2025_DSA_LIG.py | python ALGORITHM_3_LFCO_2025_DSA_LIG.py
 ```
-*(ALGORITHM_3_LFCO_2025_DSA_LIG takes the output from ALGORITHM_2_LFCO_2025_DSA_LIG, so they must be run together in this way.)*
----
 
+---
+*(ALGORITHM_3_LFCO_2025_DSA_LIG takes the output from ALGORITHM_2_LFCO_2025_DSA_LIG, so they must be run together in this way.)*
 
 
